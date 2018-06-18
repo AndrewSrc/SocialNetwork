@@ -14,7 +14,7 @@ public class Friends implements IFriends {
         return new User(Name);
     }
 
-    public void addFriend(String email) {
-        System.out.println("Добавляем друзей email = " + email);
+    public void addFriend(User user) {
+        System.out.println("Добавляем друзей = " + user.toString());
     }
 }
