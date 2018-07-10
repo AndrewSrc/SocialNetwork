@@ -16,5 +16,8 @@
         <module>profile</module>
         <module>photo</module>
         <module>models</module>
+        <module>gift</module>
+        <module>message</module>
+        <module>recommendation</module>
     </modules>
 </project>
